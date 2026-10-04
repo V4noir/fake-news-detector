@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+Fake.csv
+True.csv
+.sf/
+.vscode/
